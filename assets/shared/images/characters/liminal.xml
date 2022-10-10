@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="liminal.png">
+<SubTexture name="liminal down0000" x="489" y="633" width="522" height="627" frameX="-2" frameY="-6" frameWidth="524" frameHeight="633" />
+<SubTexture name="liminal down0001" x="1502" y="626" width="521" height="624" frameX="-3" frameY="-9" frameWidth="524" frameHeight="633" />
+<SubTexture name="liminal down0002" x="1502" y="0" width="521" height="626" frameX="-3" frameY="-7" frameWidth="524" frameHeight="633" />
+<SubTexture name="liminal down0003" x="0" y="0" width="524" height="633" frameX="0" frameY="0" frameWidth="524" frameHeight="633" />
+<SubTexture name="liminal idle0000" x="2595" y="610" width="529" height="609" frameX="-1" frameY="-5" frameWidth="539" frameHeight="614" />
+<SubTexture name="liminal idle0001" x="2595" y="0" width="530" height="610" frameX="-1" frameY="-4" frameWidth="539" frameHeight="614" />
+<SubTexture name="liminal idle0002" x="1675" y="1886" width="535" height="611" frameX="0" frameY="-3" frameWidth="539" frameHeight="614" />
+<SubTexture name="liminal idle0003" x="1136" y="1886" width="539" height="614" frameX="0" frameY="0" frameWidth="539" frameHeight="614" />
+<SubTexture name="liminal left0000" x="2023" y="0" width="572" height="620" frameX="-9" frameY="-3" frameWidth="594" frameHeight="623" />
+<SubTexture name="liminal left0001" x="0" y="1263" width="576" height="623" frameX="0" frameY="0" frameWidth="594" frameHeight="623" />
+<SubTexture name="liminal left0002" x="0" y="1886" width="574" height="619" frameX="-8" frameY="-4" frameWidth="594" frameHeight="623" />
+<SubTexture name="liminal left0003" x="574" y="1886" width="562" height="617" frameX="-32" frameY="-6" frameWidth="594" frameHeight="623" />
+<SubTexture name="liminal right0000" x="576" y="1263" width="493" height="622" frameX="-20" frameY="0" frameWidth="522" frameHeight="622" />
+<SubTexture name="liminal right0001" x="1069" y="1263" width="496" height="622" frameX="-26" frameY="0" frameWidth="522" frameHeight="622" />
+<SubTexture name="liminal right0002" x="2023" y="620" width="493" height="619" frameX="-20" frameY="-3" frameWidth="522" frameHeight="622" />
+<SubTexture name="liminal right0003" x="2023" y="1239" width="487" height="619" frameX="0" frameY="-3" frameWidth="522" frameHeight="622" />
+<SubTexture name="liminal up0000" x="0" y="633" width="489" height="630" frameX="0" frameY="-2" frameWidth="489" frameHeight="632" />
+<SubTexture name="liminal up0001" x="524" y="0" width="489" height="632" frameX="0" frameY="0" frameWidth="489" frameHeight="632" />
+<SubTexture name="liminal up0002" x="1013" y="0" width="489" height="632" frameX="0" frameY="0" frameWidth="489" frameHeight="632" />
+<SubTexture name="liminal up0003" x="1011" y="633" width="488" height="617" frameX="0" frameY="-15" frameWidth="489" frameHeight="632" />
+</TextureAtlas>
