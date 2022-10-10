@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "wilson left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-45
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "wilson down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "wilson up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				28
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "wilson right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "wilson idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wilson",
+	"position": [
+		0,
+		-70
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

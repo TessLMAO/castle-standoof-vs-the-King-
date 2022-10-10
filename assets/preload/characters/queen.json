@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "queen idle"
+		},
+		{
+			"offsets": [
+				110,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "queen left"
+		},
+		{
+			"offsets": [
+				-30,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "queen down"
+		},
+		{
+			"offsets": [
+				-40,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "queen up"
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "queen right"
+		},
+		{
+			"offsets": [
+				-32,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ad",
+			"indices": [],
+			"name": "queen ad"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "queen idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "danceLEFT",
+			"fps": 24,
+			"name": "queen idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "adb",
+			"loop": false,
+			"name": "queen adb"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/queen",
+	"position": [
+		-10,
+		200
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-120,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

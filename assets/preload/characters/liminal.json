@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "liminal down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-32
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "liminal up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-42
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "liminal right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "liminal idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "liminal left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/liminal",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-liminal",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		106,
+		128
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
