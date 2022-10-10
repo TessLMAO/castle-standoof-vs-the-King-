@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fountain.png">
+<SubTexture name="fountain flow0000" x="0" y="0" width="1185" height="3147" frameX="-34" frameY="-32" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0001" x="0" y="0" width="1185" height="3147" frameX="-34" frameY="-107" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0002" x="0" y="0" width="1185" height="3147" frameX="-34" frameY="-182" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0003" x="0" y="0" width="1185" height="3147" frameX="-34" frameY="-257" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0004" x="1185" y="0" width="1185" height="3147" frameX="-34" frameY="-332" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0005" x="1185" y="0" width="1185" height="3147" frameX="-34" frameY="-407" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0006" x="1185" y="0" width="1185" height="3147" frameX="-34" frameY="-482" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0007" x="1185" y="0" width="1185" height="3147" frameX="-34" frameY="-557" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0008" x="1185" y="0" width="1185" height="3147" frameX="-34" frameY="-632" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0009" x="1185" y="0" width="1185" height="3147" frameX="-34" frameY="-707" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0010" x="1185" y="0" width="1185" height="3147" frameX="-34" frameY="-782" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0011" x="2370" y="0" width="1185" height="3147" frameX="-34" frameY="-857" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0012" x="2370" y="0" width="1185" height="3147" frameX="-34" frameY="-932" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0013" x="2370" y="0" width="1185" height="3147" frameX="-34" frameY="-1007" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0014" x="2370" y="0" width="1185" height="3147" frameX="-34" frameY="-1082" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0015" x="2370" y="0" width="1185" height="3147" frameX="-34" frameY="-1157" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0016" x="2370" y="0" width="1185" height="3147" frameX="-34" frameY="-1232" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0017" x="2370" y="0" width="1185" height="3147" frameX="-34" frameY="-1307" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0018" x="2370" y="0" width="1185" height="3147" frameX="-34" frameY="-1382" frameWidth="1257" frameHeight="4636" />
+<SubTexture name="fountain flow0019" x="2370" y="0" width="1185" height="3147" frameX="-34" frameY="-1457" frameWidth="1257" frameHeight="4636" />
+</TextureAtlas>
